@@ -1,0 +1,8 @@
+#
+# ~/.bash_profile
+#
+# aliases 
+#
+alias pacupd='~/scripts/pac_update.sh'
+alias fileupd='~/scripts/update_db.sh'
+alias cscan='~/scripts/scanclam.sh'
