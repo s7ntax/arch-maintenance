@@ -1,7 +1,7 @@
 #
 # ~/.bash_profile
 #
-# aliases 
+# add these aliases to your .bash_profile 
 #
 alias pacupd='~/scripts/pac_update.sh'
 alias fileupd='~/scripts/update_db.sh'
